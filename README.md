@@ -158,3 +158,13 @@ int i = j = k = 0;
 ```c
 double d = 2^3; // 2*2*2
 ```
+
+### 25. 汉字标点符号支持
+代码示例：
+```c
+#include《stdio。h》
+int main（）{
+    printf（“Hello World”）；
+    return 0；
+}
+```
