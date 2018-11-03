@@ -142,10 +142,27 @@ void i = 1;
 ```
 
 ### 20. main方法可以不写return 0;
+示例代码：
+```c
+int main() {
+    printf("Hello world");
+}
+```
 
 ### 21. main方法可以不写int返回类型
+示例代码：
+```c
+main() {
+    printf("Hello world");
+    return 0;
+}
+```
 
 ### 22. main方法可以不写
+示例代码：
+```c
+printf("Hello world");
+```
 
 ### 23. 连等赋值
 代码示例：
